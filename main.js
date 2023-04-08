@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2023. by Jan Wedel
+ */
+
 import {Actor, ButtonActor, registry} from './actors.js';
 import {Todos, TodoService} from './todos/todos.js'
 import {Paginator} from './paginator/paginator.js'

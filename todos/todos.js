@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2023. by Jan Wedel
+ */
+
 import {Actor} from "../actors.js";
 
 export class TodoService {

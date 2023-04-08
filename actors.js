@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2023. by Jan Wedel
+ */
+
 class Registry {
     _registry = new Map();
 

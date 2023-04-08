@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2023. by Jan Wedel
+ */
+
 import {Actor, ButtonActor} from "../actors.js";
 
 export class Paginator extends Actor {
